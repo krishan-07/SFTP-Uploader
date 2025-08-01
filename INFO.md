@@ -1,9 +1,3 @@
-# SFTP Uploader
-
-A lightweight utility to upload files from a local directory to a remote server using the SFTP protocol.
-
----
-
 ## Project Overview
 
 This project uses the `Renci.SshNet` library to connect to a remote SFTP server and upload files. It's a .NET Framework 4.7.2 class library written in C#.
