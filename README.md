@@ -43,7 +43,7 @@ C:\Program Files\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\MSB
 
 ---
 
-## 📄 Additional Documentation
+## Additional Documentation
 
 - [Project Information & PowerShell Testing Guide](INFO.md)
 
